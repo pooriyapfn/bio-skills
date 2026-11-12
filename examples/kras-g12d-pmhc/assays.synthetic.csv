@@ -1,0 +1,5 @@
+candidate_id,mutant_call,mutant_kd_nm,wild_type_call,wild_type_kd_nm,peptide_free_call,peptide_free_kd_nm
+demo-a,kd_measured,12,no_detectable_binding,,no_detectable_binding,
+demo-b,kd_measured,2,kd_measured,8,no_detectable_binding,
+demo-c,kd_measured,6,no_detectable_binding,,missing,
+demo-d,kd_measured,3,no_detectable_binding,,detected_without_kd,
